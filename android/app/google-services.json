@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "836626699800",
+    "project_id": "gdsc-auth-harsh",
+    "storage_bucket": "gdsc-auth-harsh.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836626699800:android:78b2f6e6ae625fc888156d",
+        "android_client_info": {
+          "package_name": "com.harshkothari.gdsc.firebaseauth.gdsc_firebase_auth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836626699800-41on7vsv4cfb9g5i07j2ob1mm60g9jrl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.harshkothari.gdsc.firebaseauth.gdsc_firebase_auth",
+            "certificate_hash": "b10aa961a203d8251fabde34a7da9703c20be604"
+          }
+        },
+        {
+          "client_id": "836626699800-9k285esmsq96ld4guufblsrp7htvqff7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiMyWyViMm9Zgm4Sn-7FOBj9nnqr8Xsws"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836626699800-9k285esmsq96ld4guufblsrp7htvqff7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
